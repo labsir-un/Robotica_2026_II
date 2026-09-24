@@ -1,0 +1,193 @@
+Robotica_2026_II/
+├── .gitignore
+├── CONTRIBUTING.md
+├── Estudiantes/
+    ├── Grupo_1A/
+        ├── Lab 01 - Robótica Industrial ABB IRB140 y RobotStudio/
+        ├── Lab 02 - Robótica Industrial Motoman MH6 y RoboDK/
+        ├── Lab 03 - Robótica Industrial EPSON T3 401S y EPSON RC+/
+        ├── Lab 04 - Robótica de Desarrollo ROS Lyrical y Turtlesim/
+        ├── Lab 05 - Robótica de Desarrollo ROS Lyrical y Phantom Pincher X100/
+        ├── Lab 06 - Robótica de Desarrollo ROS Lyrical y Robot 7DoF/
+        ├── README.md
+    ├── Grupo_1B/
+        ├── Lab 01 - Robótica Industrial ABB IRB140 y RobotStudio/
+        ├── Lab 02 - Robótica Industrial Motoman MH6 y RoboDK/
+        ├── Lab 03 - Robótica Industrial EPSON T3 401S y EPSON RC+/
+        ├── Lab 04 - Robótica de Desarrollo ROS Lyrical y Turtlesim/
+        ├── Lab 05 - Robótica de Desarrollo ROS Lyrical y Phantom Pincher X100/
+        ├── Lab 06 - Robótica de Desarrollo ROS Lyrical y Robot 7DoF/
+        ├── README.md
+    ├── Grupo_1C/
+        ├── Lab 01 - Robótica Industrial ABB IRB140 y RobotStudio/
+        ├── Lab 02 - Robótica Industrial Motoman MH6 y RoboDK/
+        ├── Lab 03 - Robótica Industrial EPSON T3 401S y EPSON RC+/
+        ├── Lab 04 - Robótica de Desarrollo ROS Lyrical y Turtlesim/
+        ├── Lab 05 - Robótica de Desarrollo ROS Lyrical y Phantom Pincher X100/
+        ├── Lab 06 - Robótica de Desarrollo ROS Lyrical y Robot 7DoF/
+        ├── README.md
+    ├── Grupo_2A/
+        ├── Lab 01 - Robótica Industrial ABB IRB140 y RobotStudio/
+        ├── Lab 02 - Robótica Industrial Motoman MH6 y RoboDK/
+        ├── Lab 03 - Robótica Industrial EPSON T3 401S y EPSON RC+/
+        ├── Lab 04 - Robótica de Desarrollo ROS Lyrical y Turtlesim/
+        ├── Lab 05 - Robótica de Desarrollo ROS Lyrical y Phantom Pincher X100/
+        ├── Lab 06 - Robótica de Desarrollo ROS Lyrical y Robot 7DoF/
+        ├── README.md
+    ├── Grupo_2B/
+        ├── Lab 01 - Robótica Industrial ABB IRB140 y RobotStudio/
+        ├── Lab 02 - Robótica Industrial Motoman MH6 y RoboDK/
+        ├── Lab 03 - Robótica Industrial EPSON T3 401S y EPSON RC+/
+        ├── Lab 04 - Robótica de Desarrollo ROS Lyrical y Turtlesim/
+        ├── Lab 05 - Robótica de Desarrollo ROS Lyrical y Phantom Pincher X100/
+        ├── Lab 06 - Robótica de Desarrollo ROS Lyrical y Robot 7DoF/
+        ├── README.md
+    ├── Grupo_2C/
+        ├── Lab 01 - Robótica Industrial ABB IRB140 y RobotStudio/
+        ├── Lab 02 - Robótica Industrial Motoman MH6 y RoboDK/
+        ├── Lab 03 - Robótica Industrial EPSON T3 401S y EPSON RC+/
+        ├── Lab 04 - Robótica de Desarrollo ROS Lyrical y Turtlesim/
+        ├── Lab 05 - Robótica de Desarrollo ROS Lyrical y Phantom Pincher X100/
+        ├── Lab 06 - Robótica de Desarrollo ROS Lyrical y Robot 7DoF/
+        ├── README.md
+    ├── Grupo_3A/
+        ├── Lab 01 - Robótica Industrial ABB IRB140 y RobotStudio/
+        ├── Lab 02 - Robótica Industrial Motoman MH6 y RoboDK/
+        ├── Lab 03 - Robótica Industrial EPSON T3 401S y EPSON RC+/
+        ├── Lab 04 - Robótica de Desarrollo ROS Lyrical y Turtlesim/
+        ├── Lab 05 - Robótica de Desarrollo ROS Lyrical y Phantom Pincher X100/
+        ├── Lab 06 - Robótica de Desarrollo ROS Lyrical y Robot 7DoF/
+        ├── README.md
+    ├── Grupo_3B/
+        ├── Lab 01 - Robótica Industrial ABB IRB140 y RobotStudio/
+        ├── Lab 02 - Robótica Industrial Motoman MH6 y RoboDK/
+        ├── Lab 03 - Robótica Industrial EPSON T3 401S y EPSON RC+/
+        ├── Lab 04 - Robótica de Desarrollo ROS Lyrical y Turtlesim/
+        ├── Lab 05 - Robótica de Desarrollo ROS Lyrical y Phantom Pincher X100/
+        ├── Lab 06 - Robótica de Desarrollo ROS Lyrical y Robot 7DoF/
+        ├── README.md
+    ├── Grupo_3C/
+        ├── Lab 01 - Robótica Industrial ABB IRB140 y RobotStudio/
+        ├── Lab 02 - Robótica Industrial Motoman MH6 y RoboDK/
+        ├── Lab 03 - Robótica Industrial EPSON T3 401S y EPSON RC+/
+        ├── Lab 04 - Robótica de Desarrollo ROS Lyrical y Turtlesim/
+        ├── Lab 05 - Robótica de Desarrollo ROS Lyrical y Phantom Pincher X100/
+        ├── Lab 06 - Robótica de Desarrollo ROS Lyrical y Robot 7DoF/
+        ├── README.md
+    ├── Grupo_4A/
+        ├── Lab 01 - Robótica Industrial ABB IRB140 y RobotStudio/
+        ├── Lab 02 - Robótica Industrial Motoman MH6 y RoboDK/
+        ├── Lab 03 - Robótica Industrial EPSON T3 401S y EPSON RC+/
+        ├── Lab 04 - Robótica de Desarrollo ROS Lyrical y Turtlesim/
+        ├── Lab 05 - Robótica de Desarrollo ROS Lyrical y Phantom Pincher X100/
+        ├── Lab 06 - Robótica de Desarrollo ROS Lyrical y Robot 7DoF/
+        ├── README.md
+    ├── Grupo_4B/
+        ├── Lab 01 - Robótica Industrial ABB IRB140 y RobotStudio/
+        ├── Lab 02 - Robótica Industrial Motoman MH6 y RoboDK/
+        ├── Lab 03 - Robótica Industrial EPSON T3 401S y EPSON RC+/
+        ├── Lab 04 - Robótica de Desarrollo ROS Lyrical y Turtlesim/
+        ├── Lab 05 - Robótica de Desarrollo ROS Lyrical y Phantom Pincher X100/
+        ├── Lab 06 - Robótica de Desarrollo ROS Lyrical y Robot 7DoF/
+        ├── README.md
+    ├── Grupo_4C/
+        ├── Lab 01 - Robótica Industrial ABB IRB140 y RobotStudio/
+        ├── Lab 02 - Robótica Industrial Motoman MH6 y RoboDK/
+        ├── Lab 03 - Robótica Industrial EPSON T3 401S y EPSON RC+/
+        ├── Lab 04 - Robótica de Desarrollo ROS Lyrical y Turtlesim/
+        ├── Lab 05 - Robótica de Desarrollo ROS Lyrical y Phantom Pincher X100/
+        ├── Lab 06 - Robótica de Desarrollo ROS Lyrical y Robot 7DoF/
+        ├── README.md
+    ├── Grupo_5A/
+        ├── Lab 01 - Robótica Industrial ABB IRB140 y RobotStudio/
+        ├── Lab 02 - Robótica Industrial Motoman MH6 y RoboDK/
+        ├── Lab 03 - Robótica Industrial EPSON T3 401S y EPSON RC+/
+        ├── Lab 04 - Robótica de Desarrollo ROS Lyrical y Turtlesim/
+        ├── Lab 05 - Robótica de Desarrollo ROS Lyrical y Phantom Pincher X100/
+        ├── Lab 06 - Robótica de Desarrollo ROS Lyrical y Robot 7DoF/
+        ├── README.md
+    ├── Grupo_5B/
+        ├── Lab 01 - Robótica Industrial ABB IRB140 y RobotStudio/
+        ├── Lab 02 - Robótica Industrial Motoman MH6 y RoboDK/
+        ├── Lab 03 - Robótica Industrial EPSON T3 401S y EPSON RC+/
+        ├── Lab 04 - Robótica de Desarrollo ROS Lyrical y Turtlesim/
+        ├── Lab 05 - Robótica de Desarrollo ROS Lyrical y Phantom Pincher X100/
+        ├── Lab 06 - Robótica de Desarrollo ROS Lyrical y Robot 7DoF/
+        ├── README.md
+    ├── Grupo_5C/
+        ├── Lab 01 - Robótica Industrial ABB IRB140 y RobotStudio/
+        ├── Lab 02 - Robótica Industrial Motoman MH6 y RoboDK/
+        ├── Lab 03 - Robótica Industrial EPSON T3 401S y EPSON RC+/
+        ├── Lab 04 - Robótica de Desarrollo ROS Lyrical y Turtlesim/
+        ├── Lab 05 - Robótica de Desarrollo ROS Lyrical y Phantom Pincher X100/
+        ├── Lab 06 - Robótica de Desarrollo ROS Lyrical y Robot 7DoF/
+        ├── README.md
+    ├── Grupo_6A/
+        ├── Lab 01 - Robótica Industrial ABB IRB140 y RobotStudio/
+        ├── Lab 02 - Robótica Industrial Motoman MH6 y RoboDK/
+        ├── Lab 03 - Robótica Industrial EPSON T3 401S y EPSON RC+/
+        ├── Lab 04 - Robótica de Desarrollo ROS Lyrical y Turtlesim/
+        ├── Lab 05 - Robótica de Desarrollo ROS Lyrical y Phantom Pincher X100/
+        ├── Lab 06 - Robótica de Desarrollo ROS Lyrical y Robot 7DoF/
+        ├── README.md
+    ├── Grupo_6B/
+        ├── Lab 01 - Robótica Industrial ABB IRB140 y RobotStudio/
+        ├── Lab 02 - Robótica Industrial Motoman MH6 y RoboDK/
+        ├── Lab 03 - Robótica Industrial EPSON T3 401S y EPSON RC+/
+        ├── Lab 04 - Robótica de Desarrollo ROS Lyrical y Turtlesim/
+        ├── Lab 05 - Robótica de Desarrollo ROS Lyrical y Phantom Pincher X100/
+        ├── Lab 06 - Robótica de Desarrollo ROS Lyrical y Robot 7DoF/
+        ├── README.md
+    ├── Grupo_6C/
+        ├── Lab 01 - Robótica Industrial ABB IRB140 y RobotStudio/
+        ├── Lab 02 - Robótica Industrial Motoman MH6 y RoboDK/
+        ├── Lab 03 - Robótica Industrial EPSON T3 401S y EPSON RC+/
+        ├── Lab 04 - Robótica de Desarrollo ROS Lyrical y Turtlesim/
+        ├── Lab 05 - Robótica de Desarrollo ROS Lyrical y Phantom Pincher X100/
+        ├── Lab 06 - Robótica de Desarrollo ROS Lyrical y Robot 7DoF/
+        ├── README.md
+    ├── Grupo_7B/
+        ├── Lab 01 - Robótica Industrial ABB IRB140 y RobotStudio/
+        ├── Lab 02 - Robótica Industrial Motoman MH6 y RoboDK/
+        ├── Lab 03 - Robótica Industrial EPSON T3 401S y EPSON RC+/
+        ├── Lab 04 - Robótica de Desarrollo ROS Lyrical y Turtlesim/
+        ├── Lab 05 - Robótica de Desarrollo ROS Lyrical y Phantom Pincher X100/
+        ├── Lab 06 - Robótica de Desarrollo ROS Lyrical y Robot 7DoF/
+        ├── README.md
+    ├── README.md
+├── LICENSE
+├── MANIFEST.md
+├── Profesor/
+    ├── 02_Rob_2026_II_ROS2_Lyrical/
+        ├── README.md
+    ├── 03_Rob_2026_II_ROS2_Lyrical_Turtlesim/
+        ├── README.md
+    ├── 04_Rob_2026_II_ROS2_Lyrical_Graph/
+        ├── README.md
+    ├── 05_Rob_2026_II_ROS2_Lyrical_TurtleBot3/
+        ├── README.md
+    ├── 06_Rob_2026_II_ROS2_Lyrical_PhantomX100/
+        ├── README.md
+    ├── 07_Rob_2026_II_ROS2_Lyrical_7DoF_Dynamixel_RealSense_D435/
+        ├── README.md
+    ├── README.md
+├── Proyecto_Final/
+    ├── Equipo_01_ABB_IRB140_Cain/
+        ├── README.md
+    ├── Equipo_02_ABB_IRB140_Abel/
+        ├── README.md
+    ├── Equipo_03_Yaskawa_Motoman_MH6/
+        ├── README.md
+    ├── Equipo_04_Por_asignar/
+        ├── README.md
+    ├── Equipo_05_Por_asignar/
+        ├── README.md
+    ├── Equipo_06_Por_asignar/
+        ├── README.md
+    ├── Equipo_07_Por_asignar/
+        ├── README.md
+    ├── Equipo_08_Por_asignar/
+        ├── README.md
+    ├── README.md
+├── README.md
+├── manifest.json
