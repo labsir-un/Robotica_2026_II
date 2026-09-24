@@ -1,0 +1,493 @@
+{
+  "course": "Robótica",
+  "semester": "2026-II",
+  "institution": "Universidad Nacional de Colombia",
+  "docs": {
+    "lab_groups_png": "docs/Integrantes_Laboratorio_Robotica_2026_II_Actualizado.png",
+    "lab_groups_pdf": "docs/Integrantes_Laboratorio_Robotica_2026_II_Actualizado.pdf",
+    "project_teams_png": "docs/Integrantes_Proyecto_Final_Robotica_2026_II_Actualizado.png",
+    "project_teams_pdf": "docs/Integrantes_Proyecto_Final_Robotica_2026_II_Actualizado.pdf"
+  },
+  "student_groups": {
+    "1A": [
+      {
+        "name": "Jose Manuel Rodríguez Sandoval",
+        "email": "josrodriguezsa@unal.edu.co",
+        "github": "Chemarod1406"
+      },
+      {
+        "name": "Leonardo Acevedo Monroy",
+        "email": "leacevedo@unal.edu.co",
+        "github": "LeonardoA29"
+      }
+    ],
+    "2A": [
+      {
+        "name": "David Felipe Ruiz Reyes",
+        "email": "daruizre@unal.edu.co",
+        "github": "DraFrixUnal"
+      },
+      {
+        "name": "Marbel Alexandra Garavito Cordero",
+        "email": "mgaravito@unal.edu.co",
+        "github": "mgaravito"
+      }
+    ],
+    "3A": [
+      {
+        "name": "Luis Felipe Vargas Bernal",
+        "email": "luvargasbe@unal.edu.co",
+        "github": "felipeVargas18"
+      },
+      {
+        "name": "Isaac Jordán Oviedo",
+        "email": "ijordan@unal.edu.co",
+        "github": "ijordan-svg"
+      }
+    ],
+    "4A": [
+      {
+        "name": "Alejandro Zapata",
+        "email": "alezapata@unal.edu.co",
+        "github": "ZapitUN"
+      },
+      {
+        "name": "Jose Daniel Suarez Vasquez",
+        "email": "jdsuarezva@unal.edu.co",
+        "github": "danixcviii"
+      }
+    ],
+    "5A": [
+      {
+        "name": "Edwin Felipe Franco Sanchez",
+        "email": "edfrancos@unal.edu.co",
+        "github": "edfrancos"
+      },
+      {
+        "name": "Diego Andres Fernandez Sosa",
+        "email": "diafernandezso@unal.edu.co",
+        "github": "diafernandezso"
+      }
+    ],
+    "6A": [
+      {
+        "name": "Julieth Manuela Rojas Castro",
+        "email": "julrojasc@unal.edu.co",
+        "github": "n3mit0"
+      },
+      {
+        "name": "Diego Andres Barragan Martinez",
+        "email": "dbarraganm@unal.edu.co",
+        "github": "chopsueyb"
+      }
+    ],
+    "1B": [
+      {
+        "name": "Alejandro Ramirez Gomez",
+        "email": "aleramirezgo@unal.edu.co",
+        "github": "aleramirezgo"
+      },
+      {
+        "name": "Ronan Anquetin",
+        "email": "ranquetin@unal.edu.co",
+        "github": null
+      },
+      {
+        "name": "Nirvana Gherenny Ceron Minota",
+        "email": "nceronm@unal.edu.co",
+        "github": null
+      }
+    ],
+    "2B": [
+      {
+        "name": "Daniel Alberto Rodríguez Porras",
+        "email": "danrodriguezpo@unal.edu.co",
+        "github": "DanielRodriguez2004"
+      },
+      {
+        "name": "Juan David Saldaña Estupiñan",
+        "email": "jsaldana@unal.edu.co",
+        "github": "Ju4nSaldan4"
+      },
+      {
+        "name": "Yeison Esteban Ortega Chacua",
+        "email": "yortegac@unal.edu.co",
+        "github": "YeisonOrt14"
+      }
+    ],
+    "3B": [
+      {
+        "name": "Emmanuel Bonilla Mitrotti",
+        "email": "embonillam@unal.edu.co",
+        "github": "EmmanuelBonillaMitrotti"
+      },
+      {
+        "name": "Samuel David Negrete Lancheros",
+        "email": "snegrete@unal.edu.co",
+        "github": "Snegunal"
+      }
+    ],
+    "4B": [
+      {
+        "name": "Juan Diego Ruiz Trejo",
+        "email": "jruiztr@unal.edu.co",
+        "github": "Jruiztr28"
+      },
+      {
+        "name": "Juan David Molina Gonzalez",
+        "email": "jumolinago@unal.edu.co",
+        "github": null
+      }
+    ],
+    "5B": [
+      {
+        "name": "Ariel Giovanni Cardenas Santisteban",
+        "email": "arcardenass@unal.edu.co",
+        "github": "ArielDcg"
+      },
+      {
+        "name": "Kennet Jared Cruz Machuca",
+        "email": "kcruzm@unal.edu.co",
+        "github": "jaredkcruzm"
+      }
+    ],
+    "6B": [
+      {
+        "name": "Carlos Daniel Guzman Sandoval",
+        "email": "cguzmansa@unal.edu.co",
+        "github": null
+      }
+    ],
+    "7B": [
+      {
+        "name": "Samuel David Osorio Gutierrez",
+        "email": "sosoriogu@unal.edu.co",
+        "github": "SamuelOsorio2023"
+      },
+      {
+        "name": "Santiago Gómez Camargo",
+        "email": "sgomezcam@unal.edu.co",
+        "github": "SantiagoBlitzkrieg"
+      }
+    ],
+    "1C": [
+      {
+        "name": "Miguel Angel Martinez Torres",
+        "email": "mimartinezt@unal.edu.co",
+        "github": "martinez200315"
+      },
+      {
+        "name": "Diego José Navarro López",
+        "email": "dnavarrol@unal.edu.co",
+        "github": "djnl"
+      }
+    ],
+    "2C": [
+      {
+        "name": "Andres Felipe Osorio Ortiz",
+        "email": "aosorioor@unal.edu.co",
+        "github": "aosorioor"
+      },
+      {
+        "name": "Jesus Manuel Aragon Buitrago",
+        "email": "jaragonb@unal.edu.co",
+        "github": "JysusCrack"
+      }
+    ],
+    "3C": [
+      {
+        "name": "Daniel Alejandro Torres Sanabria",
+        "email": "datorressa@unal.edu.co",
+        "github": "DanielTorresS"
+      },
+      {
+        "name": "Janpier Sebastian Zuñiga Ramos",
+        "email": "jzunigar@unal.edu.co",
+        "github": "jzunigar"
+      }
+    ],
+    "4C": [
+      {
+        "name": "Sharon Michel Lobo Vergara",
+        "email": "slobo@unal.edu.co",
+        "github": "LobitaSM"
+      },
+      {
+        "name": "Cristian Esteban Agualimpia Torres",
+        "email": "cagualimpia@unal.edu.co",
+        "github": "cristian_agualimpia"
+      },
+      {
+        "name": "Fabian Stiven Abreo Cubides",
+        "email": "fabreo@unal.edu.co",
+        "github": "Abreo12"
+      }
+    ],
+    "5C": [
+      {
+        "name": "Alejandro Jimenez Zabala",
+        "email": "ajimenezz@unal.edu.co",
+        "github": "alejojimenezz"
+      },
+      {
+        "name": "Jhon Yunior Vargas Basurco",
+        "email": "jhvargasba@unal.edu.co",
+        "github": null
+      }
+    ],
+    "6C": [
+      {
+        "name": "John Nicolas Fajardo Jerez",
+        "email": "jfajardoj@unal.edu.co",
+        "github": null
+      },
+      {
+        "name": "Gabriel Eduardo Bojaca Munar",
+        "email": "gbojaca@unal.edu.co",
+        "github": null
+      }
+    ]
+  },
+  "project_teams": {
+    "1": {
+      "robot": "ABB IRB 140 (Caín)",
+      "members": [
+        {
+          "name": "Daniel Alejandro Torres Sanabria",
+          "email": "datorressa@unal.edu.co",
+          "github": "DanielTorresS"
+        },
+        {
+          "name": "Janpier Sebastian Zuñiga Ramos",
+          "email": "jzunigar@unal.edu.co",
+          "github": "jzunigar"
+        },
+        {
+          "name": "Sharon Michel Lobo Vergara",
+          "email": "slobo@unal.edu.co",
+          "github": "LobitaSM"
+        },
+        {
+          "name": "Fabian Stiven Abreo Cubides",
+          "email": "fabreo@unal.edu.co",
+          "github": "Abreo12"
+        }
+      ]
+    },
+    "2": {
+      "robot": "ABB IRB 140 (Abel)",
+      "members": [
+        {
+          "name": "Jose Manuel Rodríguez Sandoval",
+          "email": "josrodriguezsa@unal.edu.co",
+          "github": "Chemarod1406"
+        },
+        {
+          "name": "Leonardo Acevedo Monroy",
+          "email": "leacevedo@unal.edu.co",
+          "github": "LeonardoA29"
+        },
+        {
+          "name": "Ariel Giovanni Cardenas Santisteban",
+          "email": "arcardenass@unal.edu.co",
+          "github": "ArielDcg"
+        },
+        {
+          "name": "Kennet Jared Cruz Machuca",
+          "email": "kcruzm@unal.edu.co",
+          "github": "jaredkcruzm"
+        }
+      ]
+    },
+    "3": {
+      "robot": "Yaskawa Motoman MH6",
+      "members": [
+        {
+          "name": "Isaac Jordán Oviedo",
+          "email": "ijordan@unal.edu.co",
+          "github": "ijordan-svg"
+        },
+        {
+          "name": "Luis Felipe Vargas Bernal",
+          "email": "luvargasbe@unal.edu.co",
+          "github": "felipeVargas18"
+        },
+        {
+          "name": "Julieth Manuela Rojas Castro",
+          "email": "julrojasc@unal.edu.co",
+          "github": "n3mit0"
+        },
+        {
+          "name": "Diego Andres Barragan Martinez",
+          "email": "dbarraganm@unal.edu.co",
+          "github": "chopsueyb"
+        }
+      ]
+    },
+    "4": {
+      "robot": "Por asignar",
+      "members": [
+        {
+          "name": "Jose Daniel Suarez Vasquez",
+          "email": "jdsuarezva@unal.edu.co",
+          "github": "danixcviii"
+        },
+        {
+          "name": "John Nicolas Fajardo Jerez",
+          "email": "jfajardoj@unal.edu.co",
+          "github": null
+        },
+        {
+          "name": "Diego José Navarro López",
+          "email": "dnavarrol@unal.edu.co",
+          "github": "djnl"
+        },
+        {
+          "name": "Andres Felipe Osorio Ortiz",
+          "email": "aosorioor@unal.edu.co",
+          "github": "aosorioor"
+        },
+        {
+          "name": "Jesus Manuel Aragon Buitrago",
+          "email": "jaragonb@unal.edu.co",
+          "github": "JysusCrack"
+        },
+        {
+          "name": "Alejandro Zapata",
+          "email": "alezapata@unal.edu.co",
+          "github": "ZapitUN"
+        }
+      ]
+    },
+    "5": {
+      "robot": "Por asignar",
+      "members": [
+        {
+          "name": "Marbel Alexandra Garavito Cordero",
+          "email": "mgaravito@unal.edu.co",
+          "github": "mgaravito"
+        },
+        {
+          "name": "Gabriel Eduardo Bojaca Munar",
+          "email": "gbojaca@unal.edu.co",
+          "github": null
+        },
+        {
+          "name": "Juan David Molina Gonzalez",
+          "email": "jumolinago@unal.edu.co",
+          "github": null
+        },
+        {
+          "name": "Juan Diego Ruiz Trejo",
+          "email": "jruiztr@unal.edu.co",
+          "github": "Jruiztr28"
+        },
+        {
+          "name": "Nirvana Gherenny Ceron Minota",
+          "email": "nceronm@unal.edu.co",
+          "github": null
+        },
+        {
+          "name": "Samuel David Negrete Lancheros",
+          "email": "snegrete@unal.edu.co",
+          "github": "Snegunal"
+        }
+      ]
+    },
+    "6": {
+      "robot": "Por asignar",
+      "members": [
+        {
+          "name": "Diego Andres Fernandez Sosa",
+          "email": "diafernandezso@unal.edu.co",
+          "github": "diafernandezso"
+        },
+        {
+          "name": "Santiago Gómez Camargo",
+          "email": "sgomezcam@unal.edu.co",
+          "github": "SantiagoBlitzkrieg"
+        },
+        {
+          "name": "Alejandro Jimenez Zabala",
+          "email": "ajimenezz@unal.edu.co",
+          "github": "alejojimenezz"
+        },
+        {
+          "name": "Carlos Daniel Guzman Sandoval",
+          "email": "cguzmansa@unal.edu.co",
+          "github": null
+        },
+        {
+          "name": "Edwin Felipe Franco Sanchez",
+          "email": "edfrancos@unal.edu.co",
+          "github": "edfrancos"
+        },
+        {
+          "name": "Miguel Angel Martinez Torres",
+          "email": "mimartinezt@unal.edu.co",
+          "github": "martinez200315"
+        }
+      ]
+    },
+    "7": {
+      "robot": "Por asignar",
+      "members": [
+        {
+          "name": "Ronan Anquetin",
+          "email": "ranquetin@unal.edu.co",
+          "github": null
+        },
+        {
+          "name": "Samuel David Osorio Gutierrez",
+          "email": "sosoriogu@unal.edu.co",
+          "github": "SamuelOsorio2023"
+        },
+        {
+          "name": "Juan David Saldaña Estupiñan",
+          "email": "jsaldana@unal.edu.co",
+          "github": "Ju4nSaldan4"
+        },
+        {
+          "name": "Emmanuel Bonilla Mitrotti",
+          "email": "embonillam@unal.edu.co",
+          "github": "EmmanuelBonillaMitrotti"
+        },
+        {
+          "name": "David Felipe Ruiz Reyes",
+          "email": "daruizre@unal.edu.co",
+          "github": "DraFrixUnal"
+        }
+      ]
+    },
+    "8": {
+      "robot": "Por asignar",
+      "members": [
+        {
+          "name": "Alejandro Ramirez Gomez",
+          "email": "aleramirezgo@unal.edu.co",
+          "github": "aleramirezgo"
+        },
+        {
+          "name": "Yeison Esteban Ortega Chacua",
+          "email": "yortegac@unal.edu.co",
+          "github": "YeisonOrt14"
+        },
+        {
+          "name": "Daniel Alberto Rodríguez Porras",
+          "email": "danrodriguezpo@unal.edu.co",
+          "github": "DanielRodriguez2004"
+        },
+        {
+          "name": "Jhon Yunior Vargas Basurco",
+          "email": "jhvargasba@unal.edu.co",
+          "github": null
+        },
+        {
+          "name": "Cristian Esteban Agualimpia Torres",
+          "email": "cagualimpia@unal.edu.co",
+          "github": "cristian_agualimpia"
+        }
+      ]
+    }
+  }
+}
